@@ -1,3 +1,3 @@
 # Test git attributes
 
-Repo to test .gitattributes file.
+Repo to test git attributes file
